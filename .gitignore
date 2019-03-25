@@ -1,4 +1,8 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+ui <- fluidPage(
+titlePanel("This is a new Shiny app"),
+
+ make a first **commit** and **push** (**C&P**)
+	
+	<!--- -->
+	- change the title
+	- **C&P**
