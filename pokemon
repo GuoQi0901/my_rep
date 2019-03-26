@@ -1,0 +1,8 @@
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+import pandas as pd
+
+pokemon=pd.read_csv('~/Downloads/pokemonPJ/pokemon.csv')
+
+def generate_table(dataframe,max_rows=)
